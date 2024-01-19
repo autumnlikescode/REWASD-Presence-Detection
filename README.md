@@ -21,13 +21,13 @@ Before using the provided code, make sure you have the following:
 1. Clone the source repository by running the following command in your terminal or command prompt:
 
     ```bash
-    git clone https://github.com/your-username/rewasd-detector.git
+    git clone https://github.com/autumnlikescode/REWASD-Presence-Detection.git
     ```
 
 2. Navigate to the cloned directory:
 
     ```bash
-    cd rewasd-detector
+    cd REWASD-Presence-Detection
     ```
 
 3. Compile the code using your preferred C++ compiler:
