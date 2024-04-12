@@ -2,8 +2,6 @@
 #include <psapi.h>
 #include <iostream>
 
-#include "obfuscate.h"
-
 
 bool SimulateGame = false;
 
